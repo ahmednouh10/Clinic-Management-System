@@ -1,5 +1,5 @@
-#ifndef SUPPORT_H_
-#define SUPPORT_H_
+#ifndef PROTOTYPES_H_
+#define PROTOTYPES_H_
 
 
 extern u32 mode;
